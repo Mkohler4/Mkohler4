@@ -1,5 +1,3 @@
-<a href="#" ><img width="50%" height="auto" align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/source.gif"/></a>
-
 <h3 >Hi there, 👋 </h3>
 
 I'm Markus, I like to work on many different unique software projects.
