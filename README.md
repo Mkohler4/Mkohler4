@@ -10,6 +10,9 @@ I'm Markus, I like to work on many different unique software projects.
 - 📫 How to reach me: Mkohler4@uwo.ca
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 <!--
 **Mkohler4/Mkohler4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
