@@ -7,7 +7,7 @@ I'm Markus, I like to work on many different unique software projects.
 - 🌱 Currently learning: AWS infrastructure as code
 - 👯 I’m looking to collaborate on: Cool AI and Machine Learning projects
 - 💬 Ask me about: Anything!
-- 📫 How to reach me: Mkohler4@uwo.ca
+- 📫 How to reach me: markus@pollar.co
 
 <!--START_SECTION:waka-->
 ```text
